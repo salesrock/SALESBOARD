@@ -1,0 +1,15 @@
+.worktrees/
+.superpowers/
+node_modules/
+.next/
+.vinext/
+.wrangler/
+.dev.vars
+.env
+.env.*
+!.env.example
+!.dev.vars.example
+playwright-report/
+test-results/
+coverage/
+
